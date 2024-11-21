@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+.skippy/
+.kotlin/
+.DS_Store
