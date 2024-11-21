@@ -4,3 +4,4 @@ build/
 .skippy/
 .kotlin/
 .DS_Store
+local.properties

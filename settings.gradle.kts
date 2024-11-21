@@ -21,6 +21,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TestSkippy"
+rootProject.name = "skippy-android-sandbox"
 include(":app")
  
